@@ -13,6 +13,7 @@ const (
 	epLogin        = epBase + "api-token-auth/"
 	epAccounts     = epBase + "accounts/"
 	epQuotes       = epBase + "quotes/"
+	epHistoricals  = epBase + "quotes/historicals/"
 	epPortfolios   = epBase + "portfolios/"
 	epWatchlists   = epBase + "watchlists/"
 	epInstruments  = epBase + "instruments/"
